@@ -1,6 +1,6 @@
 # JAVASCRIPT : MOUSE EFFECT
 
-![mouse01](https://github.com/YeoDaSeul4355/MouseEffect/assets/125419623/a284c0a8-96ab-4ecf-97e6-1c0d0602f7a8)
+![mouse01](https://raw.githubusercontent.com/kebab000/MouseEffect2023/main/img/mouseEffect.png)
 
 <br><br>
 
