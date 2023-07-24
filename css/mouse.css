@@ -1,0 +1,42 @@
+/* header */
+
+#header {
+    padding: 20px;
+    position: absolute;
+    left: 0;
+    top: 0;
+
+}
+#header h1 {
+    margin-bottom: 10px;
+}
+
+#header p {
+    color: #fff;
+    margin-bottom: 10px;
+}
+#header li {
+    display: inline-block;
+}
+#header li a {
+    border: 1px solid #fff;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    color: #fff;
+    border-radius: 10%;
+}
+#header li.active a {
+    background-color: #fff;
+    color: #000;   
+}
+/* footer */
+#footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding: 20px;
+}
+#footer a {
+    color: #fff;
+}
